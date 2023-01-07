@@ -60,7 +60,6 @@ Dynamic HTML Custom Multi-purpose slider Arrow Navigation with jQuery
                     };  
                     
                     var childCountList  = ( __sliders );  
-                    var leftPushCount   = 1;
 
                     const sliderPushLeft = ( leftTurn = true ) => {
 
