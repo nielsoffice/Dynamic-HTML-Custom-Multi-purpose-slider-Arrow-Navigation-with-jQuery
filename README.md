@@ -55,8 +55,7 @@ Dynamic HTML Custom Multi-purpose slider Arrow Navigation with jQuery
 
                         jQuery(childListTagsActive).hide().removeClass('active');
                         jQuery(childListTags).eq( __counts ).show().addClass('active');
-                     
-
+                  
                     };  
                     
                     var childCountList  = ( __sliders );  
